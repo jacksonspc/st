@@ -1,0 +1,9 @@
+* Jack's simple terminal build (st)
+I no longer use it, so might as well call it deprecated (or complete!)
+
+Default font is "Hack"
+
+Supports scrolling
+
+Copy: Alt-c
+Paste: Alt-v
